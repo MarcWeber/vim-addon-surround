@@ -1,0 +1,6 @@
+press short key sequences such as <m-"> to surround current visual selection by ".
+
+code from tovl. You may want to also have a look at the various alternatives
+
+Alternative (more comprehensive implemenation) 
+http://www.vim.org/scripts/script.php?script_id=1697
